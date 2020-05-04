@@ -3,11 +3,11 @@
 You can use the [editor on GitHub](https://github.com/PixyBird/pixybird.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 
-# Test
+## Test
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -34,6 +34,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PixyBird/pixybird.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+```markdown
+  # Header 1
+    ## Header 2
+      ### Header 3
+
+```
 
 ### Support or Contact
 
